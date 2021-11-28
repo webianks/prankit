@@ -1155,7 +1155,6 @@ input.search-field {
 
 .gallery {
 	position: relative;
-	background: url(../img/gallery.png);
 	background-size: cover;
 	background-position: center;
 }
@@ -1215,7 +1214,7 @@ input.search-field {
 }
 
 .wishes__title {
-	font-family: "Playfair Display", serif;
+	font-family: "Lobster", sans-serif;
 	font-size: 30px;
 	line-height: 40px;
 	margin-bottom: 40px;
@@ -1462,7 +1461,7 @@ footer:before {
 
 .footer__title {
 	position: relative;
-	font-family: "Playfair Display", serif;
+	font-family: "Lobster", sans-serif;
 	font-size: 2rem;
 	line-height: 2.5rem;
 	margin-bottom: 40px;
